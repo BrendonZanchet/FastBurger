@@ -1,0 +1,4 @@
+.header__lista{
+    display: flex;
+    justify-content: left;
+}
